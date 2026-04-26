@@ -24,5 +24,5 @@ La carpeta `Programas` es obligatoria. Sin ella, las rutas fallarán.
 ## 👥 Autores
 
 - Johny L. Torres (https://github.com/JohnyTorresDev) 
-- Jeremy I. Ramírez
+- Jeremy I. Ramírez A.
 - Mercedes F. Pineda (https://github.com/Mercedesfpl)
