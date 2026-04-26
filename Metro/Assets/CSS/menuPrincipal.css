@@ -1,0 +1,113 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+.UNO{
+    display:flex;
+    column-gap: 15px;
+   
+}
+
+.DOS{
+    display:flex;
+    column-gap: 15px;
+}
+
+.FallasA{
+    background-color: #f2f2f2;
+    /*display: flex;*/
+    /*justify-content: flex-start;*/
+    align-items: center;
+    text-align: center;
+    height: 275px;
+    width: 475px;
+    border-radius: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 220px;
+    padding: 10px;
+}
+
+.FallasA > img {
+    height: 85%;
+    width: 100%;
+}
+
+.FallasE{
+    background-color: #f2f2f2;
+    align-items: center;
+    text-align: center;
+      height: 275px;
+    width: 475px;
+    border-radius: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;  
+}
+
+.FallasE > img {
+    height: 85%;
+    width: 100%;
+}
+
+.FallasI{
+    background-color: #f2f2f2;
+    align-items: center;
+    text-align: center;
+     height: 275px;
+    width: 475px;
+    border-radius: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 220px; 
+    padding: 10px;
+}
+
+.FallasI > img {
+    height: 85%;
+    width: 100%;
+}
+
+.FallasO{
+    background-color: #f2f2f2;
+    align-items: center;
+    text-align: center;
+      height: 275px;
+    width: 475px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;  
+}
+
+.FallasO > img {
+    height: 85%;
+    width: 100%;
+}
+/*
+.FallasA:hover {
+    scale: 1;
+}
+
+.FallasI:hover {
+    scale: 1;
+}*/
