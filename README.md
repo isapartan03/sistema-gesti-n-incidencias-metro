@@ -18,8 +18,8 @@ La carpeta `Programas` es obligatoria. Sin ella, las rutas fallarán.
 ## 📚 Documentación adicional
 
 - [Manual de Usuario](./Manual%20de%20Usuario.docx)
-- [Manual del Sistema](./docs/Manual%20de%20Sistema.docx)
-- [Manual del Programador](./docs/Manual%20Programador.docx)
+- [Manual del Sistema](./Manual%20de%20Sistema.docx)
+- [Manual del Programador](./Manual%20del%20Programador.docx)
 
 ## 👥 Autores
 
